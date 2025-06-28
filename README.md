@@ -153,7 +153,7 @@ src/
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=superselle&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=8AFFEF&icon_color=8AFFEF&title_color=8AFFEF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superselle&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=8AFFEF&title_color=8AFFEF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superselle&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=8AFFEF&title_color=8AFFEF%22%20width=%2248%" />
 </p>
 
 <!-- STREAK STATS -->
