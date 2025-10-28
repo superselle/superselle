@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8AFFEF&center=true&vCenter=true&width=500&lines=I'm+not+just+a+dev%2C+I'm+a+vibe.;Welcome+to+my+dark+corner+of+GitHub" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi there 👾 I'm <span style="color:#8AFFEF;">superselle</span></h1>
+<h1 align="center">Hi there 👾 I'm <span style="color:#8AFFEF;">Selman</span></h1>
 <p align="center">💻 Étudiant en BUT Informatique — Future Cybersecurity Engineer 🕶️</p>
 
 <!-- BADGES STYLÉS -->
